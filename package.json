@@ -1,0 +1,17 @@
+{
+  "name": "tlog",
+  "version": "1.0.0",
+  "description": "colorful log by using tag",
+  "main": "index.js",
+  "keywords": [
+    "console",
+    "log",
+    "terminal",
+    "tag"
+  ],
+  "author": "fouber <fouber.NET@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
