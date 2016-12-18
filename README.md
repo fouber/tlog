@@ -3,7 +3,7 @@
 colorful log by using tag
 
 ```js
-var tlog = require('./index');
+var tlog = require('talog');
 
 tlog('[D] this is a "%s" message.', 'debug');
 tlog('[E] this is a "%s" message.', 'error');
